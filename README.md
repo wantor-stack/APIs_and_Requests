@@ -1,5 +1,7 @@
 
-## Repository
+<img src="./images/api_request.png">
+
+## API & Request Repository
 
 The project's repository contains all its files such as code, documentation, images, and more about APIs and REQUESTs. 
 
